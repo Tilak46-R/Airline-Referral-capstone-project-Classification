@@ -3,6 +3,8 @@
 
 Airline Passenger Referral Prediction
 Airline Image
+![270672121-f9e2e73a-b087-4786-bfaa-036f2f4a5004](https://github.com/user-attachments/assets/cf4adfec-6153-43da-9c3b-6830d738207e)
+
 Overview
 This project focuses on predicting airline passenger referral behavior based on a dataset containing passenger reviews and various travel-related factors. The primary aim is to help airlines gain insights into passenger preferences and sentiments to improve their services and boost customer loyalty.
 
